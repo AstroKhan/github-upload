@@ -1,0 +1,20 @@
+.header {
+	color: blue;
+	font-size:x-large;
+}
+.spec {
+	background-color: red;
+}
+.green {
+	color:green;
+	font-weight: bold;
+}
+h2 {
+	background-color: purple;
+	color:white;
+}
+
+.font {
+	font-size: xx-large;
+	background-color: aqua;
+}
